@@ -1,0 +1,5 @@
+{
+    "rust-client.channel": "nightly",
+    "rust-analyzer.imports.prefer.no.std": false,
+    "rust-analyzer.check.allTargets": false
+}
